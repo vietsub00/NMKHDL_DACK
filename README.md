@@ -3,7 +3,6 @@
 #### Giảng viên: Thầy Trần Trung Kiên
 
 ---
-
 ## Thông tin nhóm
 
 - STT nhóm: 47
