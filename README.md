@@ -7,5 +7,5 @@
 
 - STT nhóm: 47
 - Thành viên: 
-    + 18120649 - Nguyễn Phạm Phúc Việt - vietsub00
-    + 18120533 - Dương Đoàn Bảo Sơn - baosonhcmus
+    + 18120649 - Nguyễn Phạm Phúc Việt - https://github.com/vietsub00
+    + 18120533 - Dương Đoàn Bảo Sơn - https://github.com/baosonhcmus
