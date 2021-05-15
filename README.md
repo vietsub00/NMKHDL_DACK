@@ -1,7 +1,7 @@
 # ĐỒ ÁN CUỐI KỲ: NHẬP MÔN KHOA HỌC DỮ LIỆU
 
 #### Giảng viên: Thầy Trần Trung Kiên
-#### Đề tài: Using Machine Learninng for Weather Forecast
+#### Đề tài: Using Machine Learning for Weather Forecast
 ---
 ## Thông tin nhóm
 
